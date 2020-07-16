@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/first_response.txt</file>
+        <file>resources/a-1.18.14.js</file>
+    </qresource>
+</RCC>
